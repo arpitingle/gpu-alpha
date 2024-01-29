@@ -2,7 +2,7 @@
 
 ### Articles/Blogs
 
-- [GPU Programmingn](https://enccs.github.io/gpu-programming/)
+- [GPU Programming](https://enccs.github.io/gpu-programming/)
 - [The CUDA Parallel Programming Model](https://fabiensanglard.net/cuda/)
 - [A HISTORY OF NVIDIA STREAM MULTIPROCESSOR](https://fabiensanglard.net/cuda/index.html)
 - [Parallel Thread Execution](https://docs.nvidia.com/cuda/parallel-thread-execution/index.html)
