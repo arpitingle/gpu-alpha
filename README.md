@@ -8,7 +8,7 @@
 - [Parallel Thread Execution](https://docs.nvidia.com/cuda/parallel-thread-execution/index.html)
   
 ### Tutorials 
-- [Intro Parallel Programming](https://developer.nvidia.com/udacity-cs344-intro-parallel-programming)
+- [Intro to Parallel Programming](https://developer.nvidia.com/udacity-cs344-intro-parallel-programming)
   
 ### Videos 
 - [How GPU Computing Works](https://www.youtube.com/watch?v=3l10o0DYJXg)
