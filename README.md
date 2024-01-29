@@ -6,8 +6,7 @@
 - [The CUDA Parallel Programming Model](https://fabiensanglard.net/cuda/)
 - [A HISTORY OF NVIDIA STREAM MULTIPROCESSOR](https://fabiensanglard.net/cuda/index.html)
 - [Parallel Thread Execution](https://docs.nvidia.com/cuda/parallel-thread-execution/index.html)
-- 
-
+  
 ### Tutorials 
 - [Intro Parallel Programming](https://developer.nvidia.com/udacity-cs344-intro-parallel-programming)
   
