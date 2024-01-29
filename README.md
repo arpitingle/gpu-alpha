@@ -6,6 +6,7 @@
 - [The CUDA Parallel Programming Model](https://fabiensanglard.net/cuda/)
 - [A HISTORY OF NVIDIA STREAM MULTIPROCESSOR](https://fabiensanglard.net/cuda/index.html)
 - [Parallel Thread Execution](https://docs.nvidia.com/cuda/parallel-thread-execution/index.html)
+- [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM)
   
 ### Tutorials 
 - [Intro to Parallel Programming](https://developer.nvidia.com/udacity-cs344-intro-parallel-programming)
