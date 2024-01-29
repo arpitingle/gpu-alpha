@@ -1,4 +1,4 @@
-## High Quality Resources on GPU Programming
+## High Quality Resources on GPU Programming/Architecture  
 
 ### Articles/Blogs
 
