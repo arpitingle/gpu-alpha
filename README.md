@@ -13,6 +13,7 @@
   
 ### Videos 
 - [How GPU Computing Works](https://www.youtube.com/watch?v=3l10o0DYJXg)
+- [Programming Massively Parallel Processors: A Hands-on Approach and then this YT series](https://m.youtube.com/playlist?list=PL6RdenZrxrw-zNX7uuGppWETdxt_JxdMj&si=ZqKCQgFef-v3JBv8)
 
 ### Books
 - [RDNA3 Instruction Set Architecture Reference Guide](https://www.amd.com/content/dam/amd/en/documents/radeon-tech-docs/instruction-set-architectures/rdna3-shader-instruction-set-architecture-feb-2023_0.pdf) 
