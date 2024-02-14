@@ -21,6 +21,7 @@
 - [Programming Parallel Computers](https://youtube.com/playlist?list=PL2RY7P3JxZN-Pz1nwvnoJ9uEHmOmv4jmi&si=-7hc_4fQfFrMc8VZ)
 - [GPU Programming Lectures](https://youtube.com/playlist?list=PL3xCBlatwrsXCGW4SfEoLzKiMSUCE7S_X&si=2vIw6R0JpZjBt8pR)
 - [From Scratch CUDA](https://youtube.com/playlist?list=PLxNPSjHT5qvvwoy6KXzUbLaF5A8NdJvuo&si=rvc52nc-VAPVwhNh)
+- [CUDA Programming](https://www.youtube.com/watch?v=xwbD6fL5qC8)
 
 ### Books
 - [RDNA3 Instruction Set Architecture Reference Guide](https://www.amd.com/content/dam/amd/en/documents/radeon-tech-docs/instruction-set-architectures/rdna3-shader-instruction-set-architecture-feb-2023_0.pdf) 
