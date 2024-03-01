@@ -13,6 +13,9 @@
   
 ### Tutorials 
 - [Intro to Parallel Programming](https://developer.nvidia.com/udacity-cs344-intro-parallel-programming)
+
+### Notebooks
+- [GPU Puzzles](https://github.com/srush/GPU-Puzzles)
   
 ### Videos 
 - [How GPU Computing Works](https://www.youtube.com/watch?v=3l10o0DYJXg)
