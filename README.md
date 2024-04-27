@@ -10,6 +10,7 @@
 - [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html)
 - [CUDA Matrix Multiplication Optimization](https://leimao.github.io/article/CUDA-Matrix-Multiplication-Optimization/)
 - [What Every Developer Should Know About GPU Computing](https://codeconfessions.substack.com/p/gpu-computing)
+- [A minimal GPU design in Verilog to learn how GPUs work from the ground up](https://github.com/adam-maj/tiny-gpu)
   
 ### Tutorials 
 - [Intro to Parallel Programming](https://developer.nvidia.com/udacity-cs344-intro-parallel-programming)
