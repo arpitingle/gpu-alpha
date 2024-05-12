@@ -12,6 +12,7 @@
 - [What Every Developer Should Know About GPU Computing](https://codeconfessions.substack.com/p/gpu-computing)
 - [A minimal GPU design in Verilog to learn how GPUs work from the ground up](https://github.com/adam-maj/tiny-gpu)
 - [GPU Programming: When, Why and How?](https://enccs.github.io/gpu-programming/)
+- [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM)
   
 ### Tutorials 
 - [Intro to Parallel Programming](https://developer.nvidia.com/udacity-cs344-intro-parallel-programming)
