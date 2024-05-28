@@ -12,6 +12,8 @@
 - [What Every Developer Should Know About GPU Computing](https://codeconfessions.substack.com/p/gpu-computing)
 - [A minimal GPU design in Verilog to learn how GPUs work from the ground up](https://github.com/adam-maj/tiny-gpu)
 - [GPU Programming: When, Why and How?](https://enccs.github.io/gpu-programming/)
+- [Understanding GPU internals](https://cmeraki.github.io/gpu-part1.html)
+- [Understanding the GPU programming model](https://cmeraki.github.io/gpu-part2.html)
   
 ### Tutorials 
 - [Intro to Parallel Programming](https://developer.nvidia.com/udacity-cs344-intro-parallel-programming)
