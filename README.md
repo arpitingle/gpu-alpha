@@ -24,6 +24,7 @@
 ### Videos 
 - [How GPU Computing Works](https://www.youtube.com/watch?v=3l10o0DYJXg)
 - [Getting Started With CUDA for Python Programmers](https://youtu.be/nOxKexn3iBo?si=nung2_X-TXsnK4YK)
+- [Programming Massively Parallel Processors - Lecture Series by the Book Author](https://www.youtube.com/playlist?list=PLRRuQYjFhpmubuwx-w8X964ofVkW1T8O4)
 - [Programming Massively Parallel Processors: A Hands-on Approach and then this YT series](https://m.youtube.com/playlist?list=PL6RdenZrxrw-zNX7uuGppWETdxt_JxdMj&si=ZqKCQgFef-v3JBv8)
 - [Programming Parallel Computers](https://youtube.com/playlist?list=PL2RY7P3JxZN-Pz1nwvnoJ9uEHmOmv4jmi&si=-7hc_4fQfFrMc8VZ)
 - [GPU Programming Lectures](https://youtube.com/playlist?list=PL3xCBlatwrsXCGW4SfEoLzKiMSUCE7S_X&si=2vIw6R0JpZjBt8pR)
