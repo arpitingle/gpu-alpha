@@ -30,8 +30,10 @@
 - [GPU Programming Lectures](https://youtube.com/playlist?list=PL3xCBlatwrsXCGW4SfEoLzKiMSUCE7S_X&si=2vIw6R0JpZjBt8pR)
 - [From Scratch CUDA](https://youtube.com/playlist?list=PLxNPSjHT5qvvwoy6KXzUbLaF5A8NdJvuo&si=rvc52nc-VAPVwhNh)
 - [CUDA Programming](https://www.youtube.com/watch?v=xwbD6fL5qC8)
+- [CUDA MODE Lectures](https://www.youtube.com/@CUDAMODE/videos)
 
 ### Books
 - [RDNA3 Instruction Set Architecture Reference Guide](https://www.amd.com/content/dam/amd/en/documents/radeon-tech-docs/instruction-set-architectures/rdna3-shader-instruction-set-architecture-feb-2023_0.pdf) 
 
-
+### Community
+- [CUDA MODE Discord](https://discord.com/invite/cudamode)
